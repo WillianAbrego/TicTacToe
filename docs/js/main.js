@@ -88,7 +88,7 @@ function PCPlays() {
       renderDraw();
       return;
     }
-  }, 1500);
+  }, 500);
 }
 function renderDraw() {
   playerDiv.textContent = "Draw";
